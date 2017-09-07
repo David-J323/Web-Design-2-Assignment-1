@@ -1,0 +1,160 @@
+body {
+	background-color: rgb(242, 255, 246);
+}
+
+header {
+	height: 100vh;
+}
+
+header h1 {
+	font-family: 'Oxygen';
+	font-weight: 700;
+	font-size: 3rem;
+	color: rgb(19, 20, 20);
+	position: relative;
+	top: 40vh;
+	left: 548px;
+	width: 500px;
+	text-align: center;
+}
+
+header p {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.6rem;
+	color: rgb(19, 20, 20);
+	position: relative;
+	top: 45vh;
+	left: 300px;
+	width: 1000px;
+	text-align: center;
+}
+
+section {
+	height: 100vh;
+}
+
+.sect1 {
+	background-color: rgb(19, 20, 20);
+}
+
+.sect1 h1 {
+	font-family: 'Oxygen';
+	font-weight: 700;
+	font-size: 3rem;
+	color: rgb(242, 255, 246);
+	position: relative;
+	top: 40vh;
+	left: 635px;
+	width: 300px;
+	text-align: center;
+}
+
+.sect1 p {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.6rem;
+	color: rgb(242, 255, 246);
+	position: relative;
+	top: 45vh;
+	left: 290px;
+	width: 1000px;
+	line-height: 36px;
+	text-align: center;
+}
+.sect2 h1 {
+	font-family: 'Oxygen';
+	font-weight: 700;
+	font-size: 3rem;
+	color: rgb(19, 20, 20);
+	position: relative;
+	top: 25vh;
+	left: 635px;
+	width: 300px;
+	text-align: center;
+}
+
+.sect2 p {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.6rem;
+	color: rgb(19, 20, 20);
+	position: relative;
+	top: 30vh;
+	line-height: 36px;
+	text-align: center;
+}
+
+.sect2 ul {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.3rem;
+	color: rgb(19, 20, 20);
+	line-height: 50px;
+}
+
+.col1 {
+	position: relative;
+	left: 200px;
+	top: 35vh;
+	width: 300px;
+}
+
+.col2 {
+	position: relative;
+	left: 720px;
+	bottom: 3.8vh;
+	width: 300px;
+}
+
+.col3 {
+	position: relative;
+	left: 1200px;
+	bottom: 42.6vh;
+	width: 300px;
+}
+
+.sect3 {
+	background-color: rgb(19, 20, 20);
+}
+
+.sect3 h1 {
+	font-family: 'Oxygen';
+	font-weight: 700;
+	font-size: 3rem;
+	color: rgb(242, 255, 246);
+	position: relative;
+	top: 40vh;
+	left: 585px;
+	width: 400px;
+	text-align: center;
+}
+
+.sect3 p {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.6rem;
+	color: rgb(242, 255, 246);
+	position: relative;
+	top: 45vh;
+	left: 290px;
+	width: 1000px;
+	line-height: 36px;
+	text-align: center;
+}
+
+footer {
+	height: 200px;
+}
+
+footer p {
+	font-family: 'Oxygen';
+	font-weight: 700;
+	font-size: 1.6rem;
+	color: rgb(19, 20, 20);
+	position: relative;
+	top: 11vh;
+	left: 440px;
+	width: 700px;
+	text-align: center;
+}
